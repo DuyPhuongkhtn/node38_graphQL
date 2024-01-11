@@ -6,6 +6,7 @@ const app = express();
 
 let data = "test"
 let testCommit = "testCommit"
+let test2 = "tes2"
 
 
 app.listen(8081, () => {
