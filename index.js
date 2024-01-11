@@ -4,6 +4,8 @@ import express from 'express';
 
 const app = express();
 
+let data = "test"
+
 
 app.listen(8081, () => {
     console.log("BE starting with port 8081")
