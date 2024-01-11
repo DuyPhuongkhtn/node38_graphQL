@@ -5,6 +5,7 @@ import express from 'express';
 const app = express();
 
 let data = "test"
+let testCommit = "testCommit"
 
 
 app.listen(8081, () => {
