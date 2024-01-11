@@ -6,7 +6,7 @@ const app = express();
 
 let data = "test"
 let testCommit = "testCommit"
-
+let test2 = "test2"
 
 app.listen(8081, () => {
     console.log("BE starting with port 8081")
